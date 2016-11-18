@@ -1,0 +1,19 @@
+https://www.codementor.io/reactjs/tutorial/test-reactjs-components-karma-webpack#
+https://semaphoreci.com/community/tutorials/getting-started-with-tdd-in-react
+https://github.com/webpack/webpack/issues/177
+https://github.com/domenic/sinon-chai
+
+documentation
+http://airbnb.io/enzyme/index.html
+
+// using spy in itegration tests
+http://stackoverflow.com/questions/33882851/trouble-with-chai-spy-in-mocha
+
+mockStore
+https://www.npmjs.com/package/redux-mock-store
+
+https://github.com/jhnns/rewire
+
+https://github.com/jhnns/rewire
+
+https://github.com/codesuki/react-d3-components

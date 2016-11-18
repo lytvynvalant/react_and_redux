@@ -1,0 +1,6 @@
+import TASK_ACTIONS from './tasks' ;
+
+let ACTIONS_CONSTANS = {};
+ACTIONS_CONSTANS.TASK_ACTIONS = TASK_ACTIONS;
+
+export default ACTIONS_CONSTANS;
